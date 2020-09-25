@@ -1,0 +1,21 @@
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Form_Project.resources
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\Final Project\Final Project\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\Final Project\Final Project\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\Final Project\Final Project\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\Final Project\Final Project\bin\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\Final Project\Final Project\bin\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\Final Project\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\Final Project\Final Project\obj\Debug\CP_Serial_Port_Terminal.Form_Project.resources
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\Final Project\Final Project\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+C:\Users\Msys\Downloads\CP_Serial_Port_Terminal V1.0.6\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\Msys\Desktop\Final Project\C#\Final Project\Final Project\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\Msys\Desktop\Final Project\C#\Final Project\Final Project\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\Msys\Desktop\Final Project\C#\Final Project\Final Project\obj\Debug\CP_Serial_Port_Terminal.pdb
